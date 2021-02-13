@@ -1,0 +1,56 @@
+[
+  {
+  "Id": 1,
+  "SellRent": 1,
+  "Type": "HuntVille",
+  "Prize": "120000",
+  "LOT": "half acre",
+  "Img": "House1"
+},
+{
+  "Id": 2,
+  "SellRent": 1,
+  "Type": "Franklin",
+  "Prize": "80000",
+  "LOT": "2344 Sqft",
+  "Img": "House2"
+},
+{
+  "Id": 3,
+  "SellRent": 2,
+  "Type": "Marfarisbero",
+  "Prize": "3000",
+  "LOT": "10 acre",
+  "Img": "House3"
+},
+{
+  "Id": 4,
+  "SellRent": 1,
+  "Type": "Nasvhille",
+  "Prize": "140000",
+  "LOT": "one acre",
+  "Img": "House4"
+},
+{
+  "Id": 5,
+  "SellRent": 2,
+  "Type": "Gelatin",
+  "Prize": "2500",
+  "LOT": ".8 acre",
+  "Img": "House5"
+},{
+  "Id": 6,
+  "SellRent": 1,
+  "Type": "HickeryRd",
+  "Prize": "240000",
+  "LOT": "5670 Sqft",
+  "Img": "House6"
+},{
+  "Id": 7,
+  "SellRent": 1,
+  "Type": "North Blvc",
+  "Prize": "750000",
+  "LOT": "3554 Sqft"
+
+}
+]
